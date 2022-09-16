@@ -4,8 +4,8 @@ public class CopadoDemoClass {
     	Integer b=26;
         Integer sum;
         sum=a+b;
+        System.debug('New Change');
         return sum;
     }
-	
     
 }
