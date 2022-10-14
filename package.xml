@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Copado Test</members>
+        <members>Copado_1410_Test__c</members>
+        <members>Copado_1410__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Test Profile 777</members>
         <name>Profile</name>
     </types>
     <version>55.0</version>
